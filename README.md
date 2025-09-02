@@ -26,12 +26,10 @@
 
 | Project | Description |
 |--------|-------------|
-| [Corona 19 Detection](https://github.com/AltafAli04/your-corona-repo) | Forecasting COVID-19 cases using Prophet & ARIMA |
-| [Client Sales Analysis](https://github.com/AltafAli04/your-sales-repo) | Product & agent performance with ML classification |
-| [Flight Fare Prediction](https://github.com/AltafAli04/your-flight-repo) | Predicting flight prices using regression techniques |
-| [Heart Disease Prediction](https://github.com/AltafAli04/your-heart-repo) | Classification models for medical diagnosis |
-
-> 📌 Click the links above to view code, visuals, and model results.
+| [Corona 19 Detection] | Forecasting COVID-19 cases using Prophet & ARIMA |
+| [Client Sales Analysis] | Product & agent performance with ML classification |
+| [Flight Fare Prediction] | Predicting flight prices using regression techniques |
+| [Heart Disease Prediction] | Classification models for medical diagnosis |
 
 ---
 
